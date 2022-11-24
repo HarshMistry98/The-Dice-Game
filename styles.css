@@ -32,6 +32,23 @@ img {
   width: 80%;
 }
 
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 60px;
+  background: #d93434;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #4ECCA3;
+  text-decoration: none;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
